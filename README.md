@@ -10,8 +10,8 @@
 ## Instrucciones
 
 ## Conclusiones
-__Francisco Javier Godinez Lopez__ :
-__Eduardo David Salas Ayala__ :
-__Pablo Axel Silva Fuentes__ :
+__Francisco Javier Godinez Lopez__ :  
+__Eduardo David Salas Ayala__ :  
+__Pablo Axel Silva Fuentes__ :  
 
 ## Referencias Bibliográficas 
